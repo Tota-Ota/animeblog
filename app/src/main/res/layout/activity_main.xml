@@ -5,6 +5,7 @@ xmlns:tools="http://schemas.android.com/tools"
 android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:orientation="vertical"
+android:background="@drawable/a98f4528d449d6aed36be1fe6316c43f"
 tools:context=".MainActivity">
 
 <androidx.recyclerview.widget.RecyclerView
@@ -12,6 +13,6 @@ tools:context=".MainActivity">
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:itemCount="5"
-    tools:listitem="@layout/card_view_design" />
+    tools:listitem="@layout/card_view_design"/>
 
 </LinearLayout>
