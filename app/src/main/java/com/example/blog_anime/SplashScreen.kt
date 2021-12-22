@@ -1,4 +1,4 @@
-package com.example.animeblog
+package com.example.blog_anime
 
 import android.content.Intent
 import android.os.Bundle
